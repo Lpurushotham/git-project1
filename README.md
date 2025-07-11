@@ -1,2 +1,1 @@
-# git-project1
-git-project1
+# github-project2
